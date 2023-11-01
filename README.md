@@ -32,13 +32,27 @@
 
 
 - Codifique su solución, considerando el número mínimo de clases y test necesarios para su implementación y pruebas mínimas de funcionamiento.
+- Clase Calculadora
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/f0207a80-592e-42bd-ad2b-ca91e4b2600c)
+- Clase Dado
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/3ff10bbf-ccca-4623-bd93-a24f6a2a77ae)
+- Clase juegoDeDados
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/ecb3e269-232f-4f51-b644-0ded379138b1)
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/b696e019-3de7-497a-b7c1-cb3ccbd49e62)
+- Pruebas unitarias
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/194eaca6-eb3e-453d-9957-b836a1cdf9f0)
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/6c4b028f-c8f7-470f-aa80-22e2adc8337a)
+
+
+
 
 
 Evidencia
 
 Aquí dejará link a su repositorio:
 
-- con el modelo .VPP. 
+- con el modelo .VPP.
+- R: Se subio como archivo a la branch
 
 - una imagen como evidencia del diagrama de clases creado para el caso.
 
@@ -52,3 +66,4 @@ Aquí dejará link a su repositorio:
 - ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/4b0dab5f-b68f-494f-9950-76f52ab21105)
 
 - código fuente asociado
+- Se subieron capturas anteriormente
