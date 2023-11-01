@@ -33,3 +33,22 @@
 
 - Codifique su solución, considerando el número mínimo de clases y test necesarios para su implementación y pruebas mínimas de funcionamiento.
 
+
+Evidencia
+
+Aquí dejará link a su repositorio:
+
+- con el modelo .VPP. 
+
+- una imagen como evidencia del diagrama de clases creado para el caso.
+
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/e85a24e1-8b52-4338-9ea3-8bc673598d39)
+
+
+- una imagen desde IntelliJ con el código auto generado con VP.
+
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/04654158-d201-42a9-b461-5c9443e26a00)
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/d321d16d-ba62-4b87-a239-f313e410151d)
+- ![image](https://github.com/GatoMiau03/Juego_Dados/assets/142507343/4b0dab5f-b68f-494f-9950-76f52ab21105)
+
+- código fuente asociado
